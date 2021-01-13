@@ -189,7 +189,10 @@
 "tactics": [
 "Tactics",
 "Legions",
-"Battles"
+"Battles",
+"Mercenaries",
+"Wars",
+"Skirmishes"
 ],
 "origin": [
 "#storyName# of #epicNoun#",
@@ -251,6 +254,8 @@
 "Song of #noun# and #epicNoun#",
 "Song of #epicNoun# and #noun#",
 "Whack-a-#noun#",
-"Whack-a-#epicNoun#"
+"Whack-a-#epicNoun#",
+"#storyName# #tactics#",
+"#storyName# of #tactics#"
 ]
 }
