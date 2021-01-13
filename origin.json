@@ -140,17 +140,27 @@
 "Zombie"
 ],
 "noun": [
+"Bass",
 "Bucket",
-"Buttocks",
 "Burrito",
+"Buttocks",
+"Child",
+"Elbow",
 "Fish",
 "Fortnight",
 "Frenzy",
 "Frozen",
+"Grouper",
+"Guppy",
+"Ice",
+"Man",
+"Quesadilla",
 "Salmon",
 "Sandwich",
 "Shawn",
-"Taco"
+"Taco",
+"Trout",
+"Woman"
 ],
 "planetName": [
 "Mercury",
@@ -227,6 +237,8 @@
 
 "The #epicNoun#ening",
 "Song of #noun# and #epicNoun#",
-"Song of #epicNoun# and #noun#"
+"Song of #epicNoun# and #noun#",
+"Whack-a-#noun#",
+"Whack-a-#epicNoun#"
 ]
 }
