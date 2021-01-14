@@ -256,6 +256,14 @@
 "Whack-a-#noun#",
 "Whack-a-#epicNoun#",
 "#storyName# #tactics#",
-"#storyName# of #tactics#"
+"#storyName# of #tactics#",
+  
+#{noun} Gaiden: #{Origin},
+  
+#{epicNoun} Gaiden: #{Origin},
+#{epicNoun} Gaiden: #{Origin},
+#{epicNoun} Gaiden: #{Origin},
+#{epicNoun} Gaiden: #{Origin},
+#{epicNoun} Gaiden: #{Origin}
 ]
 }
